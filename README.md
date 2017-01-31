@@ -1,6 +1,6 @@
 # Hello World using Express.js
 
-## Install Express.js
+### Install Express.js
 
 - Assuming you've already installed Node.js
 - Use the npm init command to create a package.json file
