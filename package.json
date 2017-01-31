@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ferdirn/express-js-hello-world/issues"
   },
-  "homepage": "https://github.com/ferdirn/express-js-hello-world#readme"
+  "homepage": "https://github.com/ferdirn/express-js-hello-world#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
